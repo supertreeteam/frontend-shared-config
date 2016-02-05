@@ -4,7 +4,7 @@
 var path = require('path');
 
 module.exports = {
-  name: 'frontend-shared-config',
+  name: 'supertree-shared-config',
 
   blueprintsPath: function() {
     return path.join(__dirname, 'blueprints');

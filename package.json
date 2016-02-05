@@ -3,7 +3,6 @@
   "version": "0.0.1",
   "description": "Shared configuration across Ember.js projects.",
   "directories": {
-    "doc": "doc",
     "test": "tests"
   },
   "scripts": {
@@ -13,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/supertree/frontend-shared-config.git"
+    "url": "git+https://github.com/supertreeteam/supertree-shared-config.git"
   },
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Lachlan Priest",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
@@ -43,5 +42,10 @@
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/supertreeteam/supertree-shared-config/issues"
+  },
+  "homepage": "https://github.com/supertreeteam/supertree-shared-config#readme",
+  "main": "index.js"
 }

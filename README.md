@@ -5,13 +5,13 @@ Shared configuration across all Supertree Ember.js projects.
 Add addon to `ember-cli` project as a dependency:
 
 ```sh
-npm install frontend-shared-config --save-dev
+npm install supertree-shared-config --save-dev
 ```
 
 Run generator:
 
 ```sh
-ember g frontend-shared-config
+ember g supertree-shared-config
 ```
 
 Generator will do several things:
