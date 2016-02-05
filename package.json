@@ -1,5 +1,5 @@
 {
-  "name": "frontend-shared-config",
+  "name": "supertree-shared-config",
   "version": "0.0.1",
   "description": "Shared configuration across Ember.js projects.",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ticketfly/frontend-shared-config.git"
+    "url": "https://github.com/supertree/frontend-shared-config.git"
   },
   "engines": {
     "node": ">= 0.10.0"
